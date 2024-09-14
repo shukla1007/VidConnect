@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "75678273652",
+    "project_id": "vid-connect-92ed6",
+    "storage_bucket": "vid-connect-92ed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75678273652:android:58472a9c1a5cba3cc70121",
+        "android_client_info": {
+          "package_name": "com.example.vid_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75678273652-386nrndfuk9cloldea21knl69s8c6r1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vid_connect",
+            "certificate_hash": "76f15e26d65fb693a7b87e1752e65583a4a23314"
+          }
+        },
+        {
+          "client_id": "75678273652-pe5919go7abcsne837jjous3hqrv5pdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRQouSaFH45Ql-9H88C7OAJSLobdh7Ego"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75678273652-pe5919go7abcsne837jjous3hqrv5pdu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "75678273652-5tgb5ptcpvnrrfba5ggu4391g2lbjo2c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vidConnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
